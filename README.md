@@ -1,2 +1,2 @@
 # git-demo
-git-demo project
+git-demo project for practice
